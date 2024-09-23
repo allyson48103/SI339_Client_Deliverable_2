@@ -3,11 +3,11 @@ Client Project Deliverable 2 - HTML Content
 
 
 Athlete Race Data to HTML Generator
-Overview
+**Overview**
 This Python script reads an athlete's race data from a CSV file and generates an HTML file that displays the data in a table format. The script is designed to work with any CSV file formatted with the required fields, and it automatically creates a structured HTML output file with the athlete's name and race performance details, including photos (if provided).
 
-How It Works
-Input CSV File: The script takes a CSV file as input. The CSV file must have the following format:
+**How It Works
+**Input CSV File: The script takes a CSV file as input. The CSV file must have the following format:
 
 The first row contains the athlete's name.
 The second row contains the athlete's ID.
